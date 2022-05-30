@@ -1,0 +1,50 @@
+[
+    {
+        "Processor": " Octa-core Snapdragon 680 technology 6 nano",
+        "Storage": " 64/128 GB with 4/6 GB RAM",
+        "Camera": " Quad rear 50 + 8 + 2 + 2 MB. / Front 13 mb.",
+        "Screen": " 6.43 inches, with FHD + resolution, with a small hole",
+        "Operating": " Android 11",
+        "Battery": " 5000 mAh"
+    },
+    {
+        "Processor": " Hexa-core Apple A15 Bionic 5 nanotechnology",
+        "Storage": " 128/256/512 GB with 4 GB RAM",
+        "Camera": " 12 + 12 dual rear / 12 + front SL 3D",
+        "Screen": " 6.1 inches, with a resolution of 1170 x 2532, with a large notch",
+        "Operating": " IOS 15",
+        "Battery": " 3240 mAh"
+    },
+    {
+        "Processor": " Octa-core Snapdragon 720G 8 nano technology",
+        "Storage": " 128 GB with 8 GB RAM",
+        "Camera": " Quad rear 64 + 8 + 2 + 2 MB. Front 44 mb.",
+        "Screen": " 6.4 inches FHD + with a small hole",
+        "Operating": " Android 11",
+        "Battery": " 4310 mAh"
+    },
+    {
+        "Processor": " Exynos 9611 Octa-core 10nm technology",
+        "Storage": " 128 GB with 6/8 GB RAM",
+        "Camera": " Quad rear 64 + 12 + 5 + 5 MB. / Front 32 mb.",
+        "Screen": " 6.5 inches, with FHD + resolution, with a small hole",
+        "Operating": " Android 10",
+        "Battery": " 6000 mAh"
+    },
+    {
+        "Processor": " Qualcomm Snapdragon 888 octa-core",
+        "Storage": " 128/256 GB with 8/12 GB RAM",
+        "Camera": " Triple 48 + 50 + 2 / Front: 16 MP",
+        "Screen": " 6.55 Fluid AMOLED",
+        "Operating": " Android 11 Interface OxygenOS 11.2.6.6",
+        "Battery": " 4500 mAh"
+    },
+    {
+        "Processor": " Octa-core Snapdragon 680 technology 6 nano",
+        "Storage": " 128 GB with 4/6 GB RAM",
+        "Camera": " Triple rear 50 + 2 + 2 MB. / Front 16 mb.",
+        "Screen": " 6.6 inch FHD + with a small hole",
+        "Operating": " Android 11",
+        "Battery": " 5000 mAh"
+    }
+]
